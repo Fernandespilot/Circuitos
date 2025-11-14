@@ -1,5 +1,5 @@
 
-# ⚡ Circuit Analyzer Pro
+#  Circuit Analyzer Pro
 
 ### **Análise Avançada de Circuitos RLC – Interativo, Educacional e Completo**
 
