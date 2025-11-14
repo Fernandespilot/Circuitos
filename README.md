@@ -229,26 +229,26 @@ python app.py
 
 Aqui vai um roteiro pronto para usar em sala:
 
-### **Slide 1 — Apresentação do Software**
+### ** 1 — Apresentação do Software**
 
 * Nome: Circuit Analyzer Pro
 * Objetivo: facilitar o estudo de circuitos RLC
 * Tecnologias: Python, Tkinter, Matplotlib
 
-### **Slide 2 — Interface**
+### ** 2 — Interface**
 
 * Explicar barra lateral
 * Explicar abas
 * Mostrar interatividade
 
-### **Slide 3 — Teoria**
+### ** 3 — Teoria**
 
 * Impedância
 * Fasores
 * Potências
 * Ressonância
 
-### **Slide 4 — Demonstração ao vivo**
+### ** 4 — Demonstração ao vivo**
 
 * Inserir valores
 * Gerar sinais
@@ -256,11 +256,11 @@ Aqui vai um roteiro pronto para usar em sala:
 * Alterar R, L, C
 * Plotar ressonância
 
-### **Slide 5 — Análise Transitória**
+### ** 5 — Análise Transitória**
 
 * Mostrar diferença entre ζ < 1, = 1 e > 1
 
-### **Slide 6 — Conclusão**
+### ** 6 — Conclusão**
 
 * Ferramenta educacional
 * Visual e intuitiva
